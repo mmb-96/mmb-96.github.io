@@ -9,7 +9,8 @@ name: Raspberry Pi - Manuel Melero
 description: Web sobre Raspberry Pi
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/avatar70x70.jpg
+avatar: https://raw.githubusercontent.com/mmb-96/mmb-96.github.io/master/images/avatar70x70.jpg
+
 
 #
 # Flags below are optional
