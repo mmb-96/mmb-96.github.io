@@ -7,7 +7,7 @@ Bienvenido a la web sobre Raspberry Pi, aquí podrás encontrar mucha informaci�
 
 <h2>¿Que es Raspberry Pi?</h2>
 
-<p>Raspberry Pi es un pequeño ordenador de bajo coste, bajo consumo y tamaña reducido. El tamaño es como la palma de una mano. Es una placa electrónica, que soporta varios componentes necesarios para un ordenador común. Se necesita un teclado, ratón y monitor como periféricos a añadir para poder utilizar.</p>
+**Raspberry Pi** es un pequeño ordenador de bajo coste, bajo consumo y tamaña reducido. El tamaño es como la palma de una mano. Es una placa electrónica, que soporta varios componentes necesarios para un ordenador común. Se necesita un teclado, ratón y monitor como periféricos a añadir para poder utilizar.
 
 <img src="/images/raspberry3b.jpg" alt="Foto de una Raspaberry Pi." />
 

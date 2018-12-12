@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Soy Manuel Melero Benítez, estudiante de Desarrollo de Aplicaciones Web.
 
-### More Information
+## Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Tengo el titulo de sistemas microinformáticos y redes realizado en el IES. Martínez Montañés. He trabajado para el ayuntamiento de Sevilla y en una tienda de informática como auxiliar administrativo.
 
-### Contact me
+Me gusta estar al día de nuevas tecnologías, de las mejoras de seguridad de sistemas y aplicaciones.
 
-[email@domain.com](mailto:email@domain.com)
+### Contáctame
+
+[Correo de contacto](mailto:manuel.melero@outlook.com)
+
+<br>*En el pie de página tienes más redes de contacto.*
