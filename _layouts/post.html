@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="date">
-    Redactado por {{ page.author }} el
+    Redactado por {{ page.author }}, el
            {{  page.date | date: '%-d' }} de
              {% assign m = page.date | date: '%-m' %}
              {% case m %}
@@ -24,7 +24,7 @@ layout: default
                  {% when '12' %}Diciembre
              {% endcase %}
              de
- {{ page.date | date: '%Y' }}
+ {{ page.date | date: '%Y' }}.
    </div>
 
   <div class="entry">

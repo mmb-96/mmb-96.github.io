@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usos y Accesorios.
-author: Manuel MB,
+author: Manuel MB
 ---
 Hoy trataremos sobre algunos  posibles usos y algunos de sus accesorios.<br>
 Ya que dicho producto se puede hacer muchas cosas con ellas, tanta como nuestra imaginación pueda crear, siempre y cuando tengas algo de conocimiento en ese aspecto.

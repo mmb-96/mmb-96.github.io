@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bienvenido a Raspberry Pi.
-author: Manuel MB,
+author: Manuel MB
 ---
 Bienvenido a la web sobre Raspberry Pi, aquí podrás encontrar mucha información sobre esta maravillosa placa electrónica que se puede decir que es un mini PC.
 
