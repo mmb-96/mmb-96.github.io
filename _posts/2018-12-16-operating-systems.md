@@ -3,7 +3,7 @@ layout: post
 title: Sistemas Operativos.
 author: Manuel MB
 ---
-Vamos a informar de los distintos sistemas operativos que existen para Raspberry PI. Intentaremos decir aluna característica de su sistema.<br>
+Vamos a informar de los distintos sistemas operativos que existen para Raspberry PI. Intentaremos decir alguna característica de su sistema.<br>
 También hablaremos de cómo instalar un sistema, hablaremos de su sistema oficial.<br>
 
 <h2>Sistemas Operativos.</h2>
